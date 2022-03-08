@@ -1,0 +1,45 @@
+.a {
+    height:100vh
+}
+.a-title{
+    font-size: xx-large;
+
+}
+.a-aboutme{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.me{
+    color:#59b256 ;
+}
+
+.a-img-bluu{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.a-description{
+    display: flex;
+    justify-content: left;
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.a-skills{
+justify-content: center;
+margin-left:520px;
+}
+
+.a-pointer-text{
+    
+    right: 50px
+}
+.a-pointer-container{
+    width: 100%;
+    height: 100px;
+    justify-content: left;
+}
